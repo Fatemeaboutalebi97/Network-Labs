@@ -1,2 +1,3 @@
-# Network-Labs
-Designing and implementing various types of networks in Cisco Packet Tracer
+# University-Network-Lab
+Designing and implementing a university network in Cisco Packet Tracer
+
